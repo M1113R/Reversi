@@ -12,8 +12,8 @@ O Reversi se trata de um jogo de tabuleiro para 2 pessoas na qual sua estrutura 
 |  Thomáz Marques Padovani  | 224939  |
 
 ## Acesso ao notebook do projeto :computer:
-
-- [ ] [Clique Aqui.](https://colab.research.google.com/drive/1tygyeri6kfbOTSnxts1pYt3x3hK8t3_w?usp=sharing.) :link:
+- [ ] <a href="https://colab.research.google.com/drive/1tygyeri6kfbOTSnxts1pYt3x3hK8t3_w?usp=sharing." alt="notebook">
+        <img src="https://img.shields.io/badge/Acesso-Notebook-%23FFD700" /></a> :link:
 
 <br/>
 <br/>
