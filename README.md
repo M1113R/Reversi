@@ -20,5 +20,5 @@ O Reversi se trata de um jogo de tabuleiro para 2 pessoas na qual sua estrutura 
 <br/>
 <br/>
 
-**@M1113r** :dart: *“Be the change you wish to see in the world.”* — Mahatma Gandhi :shipit:
+> **@M1113r** :dart: *“Be the change you wish to see in the world.”* — Mahatma Gandhi :shipit:
 
