@@ -1,5 +1,5 @@
 # Reversi :game_die:
-O Reversi se trata de um jogo de tabuleiro para 2 pessoas na qual sua estrutura é composta por 8 linhas e 8 colunas (64 casas) e algumas peças coloridas (2 cores, em geral preto e branco). O objetivo do jogo é ter o maior número de peças no tabuleiro possíveis no término do jogo, sendo que as jogadas são executadas por turno.
+Reversi ou Othello é um jogo de tabuleiro de estratégia para dois jogadores, jogado em um tabuleiro 8 × 8, normalmente da cor verde. Há sessenta e quatro peças de jogo idênticas chamadas discos, que são claras de um lado e escuras do outro.
 
 ### Integrantes do grupo :handshake: :brain:
 
